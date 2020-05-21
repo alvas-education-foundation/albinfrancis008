@@ -1,4 +1,4 @@
-/*Write a C Program to Reverse a Linked List in groups of given size.*/
+ /*Write a C Program to Reverse a Linked List in groups of given size.*/
 
 #include<stdio.h>
 #include<stdlib.h>
