@@ -1,3 +1,5 @@
+#Find the number that is missing from the array containing n distinct numbers taken from 0,1,2...n
+
 def missNo(x):
     l=len(x)
     maxs=max(x)
@@ -8,6 +10,6 @@ def missNo(x):
         else:
             mins+=1
             
-y=[10,9,8,7,6,5,3]
+y=[20,19,18,17,16,15,13]
 m=(missNo(y))
 print("missing number is",m)
