@@ -1,5 +1,4 @@
 #Find the number that is missing from the array containing n distinct numbers taken from 0,1,2...n
-
 def missNo(x):
     l=len(x)
     maxs=max(x)
