@@ -1,4 +1,5 @@
 /*Hint:
+
 First Create a Singly Linked List Stack with the node corresponding to First Element is the base of the stack; and its link field must be always Null.
 When you push First Element, It is the First and it is Base of the stack. Its Link must be Null. top pointer pointing to First. (top = First)
 When you push any element, (No need of checking Stack full case because SLL is dynamic) Create a new node called temp using malloc function and insert the a number into Data field, and Link field must be pointing to top; and move the pointer top to point to temp.
