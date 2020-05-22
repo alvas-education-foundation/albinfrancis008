@@ -8,6 +8,6 @@ def missNo(x):
         else:
             mins+=1
             
-y=[9,8,7,6,5,3]
+y=[10,9,8,7,6,5,3]
 m=(missNo(y))
 print("missing number is",m)
