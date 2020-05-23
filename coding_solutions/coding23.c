@@ -1,5 +1,6 @@
 /* Write a C Program to Display first N Triangular Numbers (Where N is read from the Keyboard)*/
 
+
 #include <stdio.h>
 void triangular_series(int n)
 {
